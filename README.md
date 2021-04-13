@@ -8,8 +8,9 @@ gas-system - André Mogrovejo
 Web gas system
 
 ## Setup and Run app
-
-
+* [Xampp](https://www.apachefriends.org/es/index.html)
+* [Composer](https://getcomposer.org)
+* [Laravel](https://laravel.com)
 
 ### Setup the project
 
@@ -18,14 +19,14 @@ Clone this repository
 git clone https://github.com/Skdiy/gas-system.git
 ```
 
-Install npm
+Install Laravel by issuing the Composer create-project command in your terminal.
 ``` bash
-npm install
+composer create-project --prefer-dist laravel/laravel:^7.0 yourproject
 ```
 
-Install the following dependencies at "dependencies.txt"
+Start xampp and run the following command at main directory
 ``` bash
-yarn add ...
+php artisan serve
 ```
 
 ## DATABASE
@@ -33,10 +34,6 @@ yarn add ...
 Made in MySQL
 
 ## Application's view
-
-### Live Version Link
-
-[React-netx-clone-yt](https://netx-clone-yt.web.app)
 
 ### Start
 ![Start](https://github.com/Skdiy/gas-system/blob/main/captures/start.JPG)
@@ -47,8 +44,3 @@ Made in MySQL
 ### clientes
 ![clientes](https://github.com/Skdiy/gas-system/blob/main/captures/clientes.JPG)
 
-=======
-# gas-system
-
-Gas System made on laravel php 
->>>>>>> 846ef019d1af04d1ae6ec1ff9b716e979f1e32a6
