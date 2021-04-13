@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gas-system - André Mogrovejo 
 
 gas-system - André Mogrovejo
@@ -46,3 +47,8 @@ Made in MySQL
 ### clientes
 ![clientes](https://github.com/Skdiy/gas-system/blob/main/captures/clientes.JPG)
 
+=======
+# gas-system
+
+Gas System made on laravel php 
+>>>>>>> 846ef019d1af04d1ae6ec1ff9b716e979f1e32a6
